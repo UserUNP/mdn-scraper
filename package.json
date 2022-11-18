@@ -1,0 +1,18 @@
+{
+  "name": "mdn-scraper",
+  "version": "1.0.0",
+  "description": "Scrap MDN web docs using a Discord bot",
+  "main": "./dist/index.js",
+  "author": "UserUNP",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "typescript": "^4.9.1-beta"
+  },
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "fuse.js": "^6.6.2",
+    "puppeteer": "^19.2.2"
+  }
+}
