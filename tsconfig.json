@@ -1,13 +1,13 @@
 {
 	"compilerOptions": {
 		"alwaysStrict": true,
-		"target": "ES5",
+		"target": "ESNext",
 		"module": "CommonJS",
 		"sourceMap": true,
 		"declaration": true,
 		"outDir": "./dist",
 		"rootDir": "./src",
-		"lib": ["ES5"],
+		"lib": ["ESNext"],
 		"strict": true,
 		"esModuleInterop": true,
 		"allowSyntheticDefaultImports": true,
